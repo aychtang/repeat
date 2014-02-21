@@ -1,0 +1,14 @@
+{
+  "name": "repeat",
+  "version": "0.0.0",
+  "description": "Create an array with repeating elements",
+  "main": "repeat.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "tape": "~2.5.0"
+  }
+}
