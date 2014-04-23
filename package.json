@@ -1,5 +1,5 @@
 {
-  "name": "repeat",
+  "name": "array-repeat",
   "version": "0.0.0",
   "description": "Create an array with repeating elements",
   "main": "repeat.js",
